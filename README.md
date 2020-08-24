@@ -4,7 +4,7 @@
 ![img](pdf2png\Coursera google anal\Coursera google anal-1.png)
 <!--pdf2png/Coursera google anal/Coursera google anal-1.png-->
 
-![img](pdf2png/Coursera pca/Coursera pca-1.png)
+![1](pdf2png/Coursera pca/Coursera pca-1.png)
 
 ![img](pdf2png/Coursera ploty/Coursera ploty-1.png)
 
